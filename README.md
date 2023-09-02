@@ -1,16 +1,19 @@
-### Hi there 👋
+## Olá, meu nome é Guilherme
 
-<!--
-**1mNotK0wn/1mNotK0wn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Trabalho em uma empresa de internet como jovem aprendiz, mas pretendo trabalhar com desenvolvimento backend
+- 🌱 Atualmente aprendendo C# e .NET
+- 🤔 Procurando ajuda com desenvolvimento backend
+- 📫 Contato em: kowncontact@gmail.com
+- 😄 Pronomes:  E l e
+- ⚡ Fun fact: usei o GameMaker Studio 2 para programar jogos por 2 anos, hoje uso o MonoGame Framework, mas ainda sou bem ruim
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1mNotK0wn&theme=onedark&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html>
+  <div style="display: inline_block">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    <img align="center" alt="kown-C#" height="75" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img align="center" alt="kown-C#" height="75" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img align="center" alt="kown-C#" height="75" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  </div>
+</html>
