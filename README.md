@@ -1,7 +1,7 @@
 ## Olá, meu nome é Guilherme
 
-- 🔭 Trabalho em uma empresa de internet como jovem aprendiz, mas pretendo trabalhar com desenvolvimento backend
-- 🌱 Atualmente aprendendo C# e .NET
+- 🔭 Sou jovem aprendiz e trabalho na Webby Internet, mas pretendo trabalhar com desenvolvimento backend no futuro
+- 🌱 Atualmente aprendendo C#, .NET, ASP.NET, e SQL
 - 📫 Contato em: kowncontact@gmail.com
 - ⚡ Fun fact: usei o GameMaker Studio 2 para programar jogos por 2 anos, hoje uso o MonoGame Framework, mas ainda sou bem ruim 😅
 
