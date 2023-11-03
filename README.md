@@ -1,8 +1,8 @@
 ## Olá, meu nome é Guilherme
 
 - 🔭 Sou jovem aprendiz e trabalho na Webby Internet, mas pretendo trabalhar com desenvolvimento backend no futuro
-- 🌱 Atualmente aprendendo C#, .NET, ASP.NET, e SQL
-- 📫 Contato em: kowncontact@gmail.com
+- 🌱 Atualmente aprendendo C#, .NET, ASP.NET, Javascript, Node.js, e SQL
+- 📫 Contato em: guilh3rmeend0@gmail.com
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1mNotK0wn&theme=onedark&show_icons=true)-->
 
